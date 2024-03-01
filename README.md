@@ -8,3 +8,5 @@ for the HTML file Index, it has the title(s) and links to the CSS file styleshee
 ![cssscrenshot](https://github.com/samkidane/Data_USA/assets/158447569/70dcbd5d-a506-45e8-8ad2-b4042e8ebf61)
 
 ![javascriptscreenshot](https://github.com/samkidane/Data_USA/assets/158447569/ca3acaec-bae3-4ffc-b0f8-efd0f584f8cb)
+
+![populationscreenshot](https://github.com/samkidane/Data_USA/assets/158447569/930710ae-5e52-4180-a0d5-97d43d8a5365)
